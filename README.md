@@ -43,7 +43,15 @@ https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"LSbPvCBda-PIEAOYaPQa5g" group-title="Lista 27 solo OTT", "kid":"eKLAJInaXVqixSVNyDV2kA"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", CANAL 9
+https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 
 
 
