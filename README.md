@@ -38,6 +38,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1105
 
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -47,3 +48,21 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1105
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3X7twQ/espn2ar.png" tvg-group="DEPORTES", ESPN 2 AR
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3Msv8QTfC7xU3gazwnhvXA","kid":"BrOt-6mEXHySRwT9i43NZA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JBzgk1f/espn2mx.png" tvg-group="DEPORTES", ESPN 2 MX
+https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
+
+
+
+
+
+
