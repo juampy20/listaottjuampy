@@ -17,7 +17,6 @@ https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnar.json
 #EXTVLCOPT:network-caching=500
 #EXTVLCOPT:http-user-agent="FireFox"
