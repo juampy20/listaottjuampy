@@ -155,6 +155,14 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QSXkCACgi7xmzyd1alqygw","kid":"2D4uDLlzW-qfyfC5DOoeFA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Jw63P7/telefe.png" tvg-group="ARGENTINA", TELEFE
+https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
 
