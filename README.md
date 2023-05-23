@@ -165,4 +165,17 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Jw63P7/telefe.png" tvg-group="ARGENTINA", TELEFE
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"svFjuTAopMMlwNj38bKeJQ","kid":"J5ZaXkdRXFKvlw3vgjAULA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFKTs3P/trece.png" tvg-group="ARGENTINA", CANAL 13
+https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
+
+
+
+
 
