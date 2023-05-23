@@ -1,5 +1,17 @@
 #EXTM3U
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=schemeIdUri
+#KODIPROP:inputstream.adaptive.license_key="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95"
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="-" tvg-group="TEST", JUAMPY
+https://1061-vos.dtvott.com/DASH/manifest.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
