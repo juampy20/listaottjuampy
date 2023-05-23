@@ -111,3 +111,13 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Ea1p0shPQdu1IKv+OLGf5w","kid": "TLSd80FCPLWXvz55t48qUg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN PREMIUM 2 AR
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1125
+
