@@ -84,7 +84,15 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS AR
 https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"Jc5PbNPuVhOSL5x_b24HvQ" group-title="Lista 27 solo OTT", "kid":"FBPKoD4EV0O2SWIysJ5o-g"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS 2
+https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
 
 
 
