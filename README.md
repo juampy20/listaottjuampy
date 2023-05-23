@@ -32,7 +32,15 @@ https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 #EXTINF:-1  group-title="Lista 27 solo OTT", TN
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"CzeyY6Csp7CPEgFLK3uSSA" group-title="Lista 27 solo OTT", "kid":"X3ieu7ZJVXi0Ime2UFdPYg"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", TV PUBLICA
+https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
 
 
