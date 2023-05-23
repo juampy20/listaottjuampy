@@ -121,3 +121,15 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN PREMIUM 2 AR
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1125
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "X/O+5M/wXTQA1+pg/MkyNQ","kid":"itmfZRLVBHZjkFKo/opGdg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" tvg-group="DEPORTES", FOX SPORTS
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+
+
+
