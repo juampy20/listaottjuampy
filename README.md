@@ -176,6 +176,14 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LSbPvCBda-PIEAOYaPQa5g","kid":"eKLAJInaXVqixSVNyDV2kA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S65qfr0/elnueve.png" tvg-group="ARGENTINA", CANAL 9
+https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 
 
