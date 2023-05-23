@@ -12,6 +12,8 @@ https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
 
 
 
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
