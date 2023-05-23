@@ -73,3 +73,18 @@ https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd
 
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8SpnwA1O8olVByrsMWom8A","kid":"v2i0CrnCWFmLcyBFCauGDQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ysHZZJk/espn3ar.png" tvg-group="DEPORTES", ESPN 3 AR
+https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
+
+
+
+
+
