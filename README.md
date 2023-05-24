@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="SPORTS". test 7
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo="" group-title="SPORTS", test 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 
 https://webudit.salamus1.lol/lb/premium134/index.m3u8|referer=https://streamservicehd.click/
 
