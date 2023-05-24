@@ -258,26 +258,53 @@ https://anbalancer.express.com.ar/live/c1eds/DHE_HD/SA_DASH_cipix/DHE_HD.mpd
 
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "MLnzC7e6OxpR1+OfRvNxrQ","kid": "jayYbFm3U12kw8eeDVXuQw"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DVGQKwh/smi.png" tvg-group="CINE Y SERIES", SMITHSONIAN CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/smithsonian.json
 https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4w3UkI5mdjc2nftlgvVNZA","kid":"zgp8iD4qVDC7qXo9aODa-A"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
 https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8gUfOGEvCnHN5xdKPGxFJg","kid":"JS3bbnndU1G7lerBEV1BkQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C79SYb6/ucomedy.png" tvg-group="CINE Y SERIES", UNIVERSAL COMEDY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcomedy.json
 https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"q4GH1Q0xHTC8DX3G61aX0Q","kid":"0IC-KKD8WXC_HeiX-A1AvQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vhyghNC/unpre.png" tvg-group="CINE Y SERIES", UNIVERSAL PREMIERE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalpremier.json
 https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL CRIME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
