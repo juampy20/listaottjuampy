@@ -21,7 +21,7 @@ https://webudit.salamus1.lol/lb/premium25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes" mono
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://ddy1.salamus1.lol/ddy1/premium553/tracks-v1a1/mono.
+https://ddy1.salamus1.lol/ddy1/premium587/tracks-v1a1/mono.
 
 
 
