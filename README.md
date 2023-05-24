@@ -45,17 +45,33 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1246
 
 
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "ywu6RSL/zZCotRVBoPz64A","kid": "uw7Kpq5iM2GXxk1BKcagnQ"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="DEPORTES", DIRECTV SPORTS AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dtvar.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "6nE40HAJ3/fr5uL+3Ov2YA","kid": "+oeWUQvwNX2fw5vYG7/KGA"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="DEPORTES", DIRECTV SPORTS CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dtvcl.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
+
+
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png" tvg-group="DEPORTES", DIRECTV SPORTS EC
