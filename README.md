@@ -16,6 +16,7 @@ https://1057-vos.dtvott.com/DASH/manifest.mpd
 
 
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -25,6 +26,7 @@ https://1057-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL CRIME
 https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
+
 
 
 
@@ -43,6 +45,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 
 
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -52,6 +55,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hPTcck/espncl.png" tvg-group="DEPORTES", ESPN CL
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1105
+
 
 
 
