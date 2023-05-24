@@ -33,6 +33,12 @@ https://ddy1.salamus1.lol/ddy1/premium82/tracks-v1a1/mono.m3u8
 https://ddy1.salamus1.lol/ddy1/premium82/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",mono v2 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://ddy1.salamus1.lol/ddy1/premium82/tracks-v2a2/mono.m3u8
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
