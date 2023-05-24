@@ -3,13 +3,13 @@
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=schemeIdUri
-#KODIPROP:inputstream.adaptive.license_key="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95"
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cb0bba4522ffcd90a8b51541a0fcfae0","kid":"bb0ecaa6ae62336197c64d4129c6a09d"}],"type":"temporary"}
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="-" tvg-group="TEST", JUAMPY
-https://1061-vos.dtvott.com/DASH/manifest.mpd
+https://1057-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
