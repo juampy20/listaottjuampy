@@ -5,19 +5,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=[{
-		"sources": [
-			{
-				"default": false,
-				"type": "dash",
-				"file": url+'/manifest.mpd',
-				"drm": {
-					"clearkey": { "keyId":"bb0ecaa6ae62336197c64d4129c6a09d" , "key": "cb0bba4522ffcd90a8b51541a0fcfae0" }
-				},
-				"label": "0"
-			}
-		]
-	
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mpk35dI2o1_-kdbNcSW-zA","kid":"4kAu43NsVrO9XVCs8jAJYQ"}],"type":"temporary"
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
