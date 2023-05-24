@@ -51,6 +51,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1105
 
 
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
