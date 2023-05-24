@@ -83,6 +83,8 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 
 
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -92,6 +94,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN PLUS
 https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd
+
+
 
 
 
