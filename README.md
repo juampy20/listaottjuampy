@@ -2,40 +2,53 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",1
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",1  (2500)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=2500
 https://webudit.salamus1.lol/lb/premium578/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",M2
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",M2 (2500)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=2500
 https://webudit.salamus1.lol/lb/premium41/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo3
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo3 (2500)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=2500
 https://webudit.salamus1.lol/lb/premium59/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (300)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=300
 https://webudit.salamus1.lol/lb/premium538/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (500)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=500
 https://webudit.salamus1.lol/lb/premium725/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (800)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:network-caching=800
+https://webudit.salamus1.lol/lb/premium25/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (4000)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:network-caching=4000
+https://webudit.salamus1.lol/lb/premium25/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Movistar Deportes 3
