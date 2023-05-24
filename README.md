@@ -537,39 +537,47 @@ https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BcrhzSq/teledoce.png" tvg-group="URUGUAY", TELEDOCE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/canal12uy.json
-https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QK6CbsM/canal10.png" tvg-group="URUGUAY", CANAL 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/canal10uy.json
-https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tbhgmz4/UCL.png" tvg-group="URUGUAY", UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "BilcjWAJpH+Mg+XA0/b90A","kid": "Sdqzv7wlXaGyCFLRcrsvUw"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", A3 SERIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/a3series.json
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Discovery_World_HD.json
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "VnV9ZWpperei5eCDtdIbtQ","kid": "NO6UwiYzRfejpZBmEmTkkA"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY WORLD
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/discworld.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY WORLD OP2
-https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
 
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"deZqTteIDHFlXSTlLK070w","kid":"0y2BXR9_UyW6c1YlNGYskg"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bgpm95Y/k-Mnbxb-EN-400x400.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY TURBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/disturbo.json
 https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5szkx2/boomerang.png" tvg-group="INFANTILES", BOOMERANG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
