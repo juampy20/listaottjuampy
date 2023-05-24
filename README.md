@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo="" group-title="SPORTS", test 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 
 #EXTVLCOPT:network-caching=2500
@@ -18,35 +18,35 @@ https://ddy4.salamus1.lol/ddy4/premium7/playlist.m3u8
 
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",M2 (2500)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=2500
 https://ddy4.salamus1.lol/ddy4/premium8/playlist.m3u8
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo3 (2500)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=2500
 https://webudit.salamus1.lol/lb/premium59/index.m3u8
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (300)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=300
 https://webudit.salamus1.lol/lb/premium538/index.m3u8
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (500)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=500
 https://webudit.salamus1.lol/lb/premium725/index.m3u8
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (800)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
