@@ -1,16 +1,8 @@
 #EXTM3U
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo="" group-title="SPORTS", test 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 
-#EXTVLCOPT:network-caching=2500
-https://webudit.salamus1.lol/lb/premium134/index.m3u8|referer=https://streamservicehd.click/
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS", playlist  (1000)
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes" playlkis  (1000)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=1000
@@ -18,55 +10,21 @@ https://ddy4.salamus1.lol/ddy4/premium7/playlist.m3u8
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",M2 (2500)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTVLCOPT:network-caching=2500
-https://ddy4.salamus1.lol/ddy4/premium8/playlist.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo3 (2500)
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes"  test (1000)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTVLCOPT:network-caching=2500
-https://webudit.salamus1.lol/lb/premium59/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (300)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTVLCOPT:network-caching=300
-https://webudit.salamus1.lol/lb/premium538/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (500)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTVLCOPT:network-caching=500
-https://webudit.salamus1.lol/lb/premium725/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (800)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTVLCOPT:network-caching=800
+#EXTVLCOPT:network-caching=1000
 https://webudit.salamus1.lol/lb/premium25/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4 (4000)
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes" mono
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTVLCOPT:network-caching=4000
-https://webudit.salamus1.lol/lb/premium25/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Movistar Deportes 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://ddy1.salamus1.lol/ddy1/premium553/tracks-v1a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",mono test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
