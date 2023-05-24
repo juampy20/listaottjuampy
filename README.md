@@ -392,11 +392,15 @@ https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/quiero.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQfM5V8/Qmusica-TV-Logo.jpg" tvg-group="MUSICA", QUIERO OP2
-https://anbalancer.express.com.ar/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd
+
+
+
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Discovery_Science.json
@@ -488,20 +492,50 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/deportv.json
 https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
 
+
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b3ZjSxTiQ_G87hxfzYo5PA","kid":"0U_KVQrbW3W7NPDEKqKB3Q"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3p33HGF/americatvar.png" tvg-group="ARGENTINA", AMERICA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/americatvar.json
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j3xTv-At800lPrYefQGueQ","kid":"s2PjWlB1WJmD_sTi90-QuQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nfdPqS0/tn.png" tvg-group="ARGENTINA", TN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tnar.json
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"izhVxj-FZ7nT9UZdwK1gVg","kid":"WHCJgcHCWum1_r2hbsOcWw"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" tvg-group="ARGENTINA", CRONICA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cronicatvar.json
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BcrhzSq/teledoce.png" tvg-group="URUGUAY", TELEDOCE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
