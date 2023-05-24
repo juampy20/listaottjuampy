@@ -29,6 +29,13 @@ https://webudit.salamus1.lol/lb/premium59/index.m3u8
 https://webudit.salamus1.lol/lb/premium538/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:network-caching=500
+https://webudit.salamus1.lol/lb/premium725/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Movistar Deportes 3
