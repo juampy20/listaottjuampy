@@ -39,6 +39,14 @@ https://ddy1.salamus1.lol/ddy1/premium82/tracks-v2a1/mono.m3u8
 https://ddy1.salamus1.lol/ddy1/premium82/tracks-v2a2/mono.m3u8
 
 
+
+
+
+
+
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
