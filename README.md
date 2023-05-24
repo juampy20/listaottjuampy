@@ -23,7 +23,7 @@ https://ddy4.salamus1.lol/ddy4/premium7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:network-caching=2500
-https://webudit.salamus1.lol/lb/premium41/index.m3u8
+https://ddy4.salamus1.lol/ddy4/premium8/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="JUAMPY" tvg-logo=""" group-title="superdeportes". SPORTS",Mo3 (2500)
