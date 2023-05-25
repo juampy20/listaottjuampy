@@ -1551,25 +1551,54 @@ https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cnn.json
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QSXkCACgi7xmzyd1alqygw","kid":"2D4uDLlzW-qfyfC5DOoeFA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Jw63P7/telefe.png" tvg-group="ARGENTINA", TELEFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/telefe.json
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"svFjuTAopMMlwNj38bKeJQ","kid":"J5ZaXkdRXFKvlw3vgjAULA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFKTs3P/trece.png" tvg-group="ARGENTINA", CANAL 13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/eltrecear.json
 https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
 
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LSbPvCBda-PIEAOYaPQa5g","kid":"eKLAJInaXVqixSVNyDV2kA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S65qfr0/elnueve.png" tvg-group="ARGENTINA", CANAL 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/elnuevear.json
 https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-group="DEPORTES", TYC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
