@@ -1244,26 +1244,50 @@ https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "+lgX+rT7BUzOoau589dn7Q","kid": "k9hTrEyOJM8Clfb5fuU70w"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r6Qmn2/gourmet.png" tvg-group="CINE Y SERIES", GOURMET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/gourmet.json
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aU6xLGykAbRUvXQsN0pQwA","kid":"o7kfldyRUs6Po0p_7RA7cA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" tvg-group="INFANTILES", DISCOVERY KIDS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/diskids.json
 https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2VSYMMKdX_DFxwEDbrnLpA","kid":"y6GQdDeaWzyHXNGs4Btsvg"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CIENCIA Y CULTURA", HOME & HEALT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/hyh.json
 https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"20D8kaXIA_N05pLDM58Kwg","kid":"RY9wA06JWpOlNM5Tf4rjFQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8r5CncS/disneyxd.png" tvg-group="INFANTILES", DISNEY XD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/disneyxd.json
 https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" tvg-group="INFANTILES", DISNEY JR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
