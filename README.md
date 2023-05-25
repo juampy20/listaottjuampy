@@ -1058,41 +1058,77 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXm4SxG/canal-goldenmultiplex.jpg" tvg-group="CINE Y SERIES", GOLDEN MULTIPLEX
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "fh7PcExoKAL3Td2j5oxMOA","kid": "ZAFBrPLXMEJuCwEnW8nkEg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZkKFZ6/Logo-TDN.png" tvg-group="DEPORTES", TDN 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tudn.json
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "JVJt5chfhK/2sLswD0tuyA","kid": "rPu0oIImyAjdg7mbHwso+w"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" tvg-group="CINE Y SERIES", TLNOVELAS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/tlnovelas.json
 https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "ANe1w496nhlnaKxvRYPrRQ","kid": "7sYEZgdBVcCxJOESGJC64g"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" tvg-group="CINE Y SERIES", EUROPA EUROPA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/europa.json
 https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Yd/vgc7hHLQZphICcLlYew","kid":"VqJHMsfFWKCyRNydX5EPhw"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/warner.json
 https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "6mHDwa3ucbXC6XROQdS3Xw","kid": "bPmhPW/WWg8uHO45aaq59Q"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Universal_Channel_HD.json
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universal.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL OP2
-https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "QafT1SLhkhW36PYRtpAtYQ","kid": "EGOKci61TGS/sOendINoag"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y8zJTN/tooncast.png" tvg-group="INFANTILES", TOONCAST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNr815G/tntseries.png" tvg-group="CINE Y SERIES", TNT SERIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
