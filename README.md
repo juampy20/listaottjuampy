@@ -906,21 +906,47 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mgduj0idcq4IR-syVs6tHQ","kid":"uUr354epW_C32Dj7NPJ4Qg"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcMqrCH/tntsportscl.png" tvg-group="DEPORTES", TNT SPORTS CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tntsportscl.json
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Mgduj0idcq4IR+syVs6tHQ","kid": "uUr354epW/C32Dj7NPJ4Qg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gF6G83b/tntsports2cl.png" tvg-group="DEPORTES", TNT SPORTS 2 CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tntsports2cl.json
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "zzjSAn3jr/zpUa/L1YNFjQ","kid": "F0PNcQHHPimDupKPv87DBw"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgnQ6Xm/tntsports3cl.png" tvg-group="DEPORTES", TNT SPORTS 3 CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tntsports3cl.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1231
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sPD20WH/ECDF.png" tvg-group="DEPORTES", EL CANAL DEL FUTBOL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
