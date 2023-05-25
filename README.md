@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", ṕorteña
+https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
