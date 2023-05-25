@@ -1883,10 +1883,22 @@ https://dtvott-cbc.akamaized.net/dash_live_1022/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/azclic.json
 https://dtvott-cbc.akamaized.net/dash_live_1021/manifest.mpd
 
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CzeyY6Csp7CPEgFLK3uSSA","kid":"X3ieu7ZJVXi0Ime2UFdPYg"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mfD9vK/tvpub.png" tvg-group="ARGENTINA", TV PUBLICA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" tvg-group="XXX", PLAYBOY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1905,10 +1917,18 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
 
 
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9B3NW7ERtuvJVZdB2Yt7gQ","kid":"QKqKNGf8V5Cld5ohkItKdQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zXF5D00/a24.png" tvg-group="ARGENTINA", AMERICA 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/a24ar.json
 https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FB346KP/dtv.jpg" tvg-group="ARGENTINA", DIPUTADOS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1948,13 +1968,25 @@ https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisim
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d50WWDf/telemax.png" tvg-group="ARGENTINA", TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "VMZMdRbzOJJqASqxR3ZOhw","kid": "e+NiRTmidSNJGRrh0xrLCw"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Qv8dg/viajar.png" tvg-group="ARGENTINA", VIAJAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/viajar.json
 https://cdn.cvattv.com.ar/live/c6eds/Viajar/SA_Live_dash_enc/Viajar.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "T98ooKuRNWylWnX06b+Mkg","kid": "HhrUIqZxRIK2b6cCwW5Qxg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" tvg-group="ESPAÃ‘A", ANTENA 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/antena3.json
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
