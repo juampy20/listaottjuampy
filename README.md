@@ -998,6 +998,10 @@ https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="CINE Y SERIES", DE PELICULA PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/depeliculaplus.json
@@ -1182,38 +1186,87 @@ https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/discovery.json
 https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
 
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "LR0qEkVLaC3xl/8m/1JTpQ","kid": "U01IiFKzMwKEMH0aPKD9Ow"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="DEPORTES", ESPN AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnar.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "VAQp4l36VMKqJWURWJZsBQ","kid": "Gs5xcwfBP1yxLXlZGlqUnQ"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hPTcck/espncl.png" tvg-group="DEPORTES", ESPN CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espncl.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1105
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "JnVXtkyGC/bvdxKYlaSXQQ","kid": "J66tJFjZWMaOB/8IeQS83w"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jH5HgcY/espn2cl.png" tvg-group="DEPORTES", ESPN 2 CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espn2cl.json
 https://dtvott-abc.akamaized.net/dash_live_1097/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "8SpnwA1O8olVByrsMWom8A","kid": "v2i0CrnCWFmLcyBFCauGDQ"}],"type": "temporary"
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JdyHnZq/espn3cl.png" tvg-group="DEPORTES", ESPN 3 CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espn3cl.json
 https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "XHi0AQeDtjjqyLwuhShYrA","kid": "EgoU5ST2N9S4l8C3ClLZHw"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZwfPjp/espn4cl.png" tvg-group="DEPORTES", ESPN 4 CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espn4cl.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1116
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"An_E87YnURHAyLWuhJM-qA","kid":"JET38ZspNS620cf52PcdWQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN CO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espnco.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1106
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THZB74y/espn2co.png" tvg-group="DEPORTES", ESPN 2 CO
@@ -1267,6 +1320,11 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espn4.json
 https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" tvg-group="CIENCIA Y CULTURA", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
