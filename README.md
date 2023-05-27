@@ -1923,6 +1923,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" tvg-group="CINE Y SERIES", TBS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TBS.json
@@ -2001,15 +2003,6 @@ https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FB346KP/dtv.jpg" tvg-group="ARGENTINA", DIPUTADOS TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dtv.json
-https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P9zpMgY/Bravotv.png" tvg-group="ARGENTINA", BRAVO TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/bravotv.json
-https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
