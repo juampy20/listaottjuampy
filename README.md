@@ -1924,37 +1924,40 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "SG4sbWmt6n4X8pYOjjZmEg","kid": "SaAXmwNK6JnLZ9ilg0GBqg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" tvg-group="CINE Y SERIES", TBS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TBS.json
 https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tbs.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" tvg-group="CINE Y SERIES", TBS OP2
-https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "sovcHEYJC4YKi83Bzclalw","kid": "Mmf9Mt4bUmCf9lBd1n0yCw"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nBNf8Ty/lifetime.png" tvg-group="CINE Y SERIES", LIFETIME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/lifetime.json
 https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mWhhGXMlowiW4y3SgN2Hfg","kid": "Hd3fY7oYUBuVJf2pp2Pzmg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gwh3zDd/azmundo.png" tvg-group="CINE Y SERIES", AZMUNDO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/azmundo.json
 https://dtvott-cbc.akamaized.net/dash_live_1023/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xsRYG35/azcorazon.png" tvg-group="CINE Y SERIES", AZCORAZON
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/azcorazon.json
-https://dtvott-cbc.akamaized.net/dash_live_1022/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1QjLQ5L/Az-clic.png" tvg-group="CINE Y SERIES", AZCLIC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/azclic.json
-https://dtvott-cbc.akamaized.net/dash_live_1021/manifest.mpd
+
 
 
 
