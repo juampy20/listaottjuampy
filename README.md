@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", ṕorteña
+#EXTINF:-1 tvg-logo="-" tvg-group="regional", ṕorteña
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
 
@@ -218,7 +218,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0070
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD7D89r/globo.png" tvg-group="DEPORTES", TV GLOBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD7D89r/globo.png" tvg-group="noticias", TV GLOBO
 https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd
 
 
