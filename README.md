@@ -1,5 +1,11 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c4697bf458da52f8b96b36cce761d571&key=a4dee77615279c858b19e5bb69ab6755
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT Sports 🇦🇷  test webcindario
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="-" tvg-group="regional", ṕorteña
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
