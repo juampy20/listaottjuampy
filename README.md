@@ -2,7 +2,15 @@
 
 #EXTINF:-1 tvg-logo="-" tvg-group="regional", nada
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="MEXICO", ESPN 🇲🇽 (DTV)  test
+https://1108-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -12,7 +20,7 @@
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT Sports 🇦🇷
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT Sports 🇦🇷  test
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
