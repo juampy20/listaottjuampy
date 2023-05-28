@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -11,8 +9,6 @@
 #KODIPROP:inputstream.adaptive.license_key=4d45b79d4487343589058ab49ddf8cf0:aa7f95f71a3cfe40aa59904f9285af72
 #EXTINF:-1 tvg-logo="-" group-title="MEXICO", tyc sports test
 https://1240-vos.dtvott.com/DASH/manifest.mpd
-
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
