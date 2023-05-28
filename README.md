@@ -1,6 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="-" tvg-group="regional", nada
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d45b79d4487343589058ab49ddf8cf0:aa7f95f71a3cfe40aa59904f9285af72
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO", tyc sports test
+https://blackface.world/dtvpl.html?id=1240
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
