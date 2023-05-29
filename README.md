@@ -24,7 +24,7 @@ https://1108-vos.dtvott.com/DASH/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="-" group-titlep="REGIONAL",PORTEÑA
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",PORTEÑA
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
 
