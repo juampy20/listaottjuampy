@@ -588,7 +588,7 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="CINE Y SERIES", HBO XTREME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", HBO XTREME
 http://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
 
@@ -599,7 +599,7 @@ http://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" tvg-group="CINE Y SERIES", HBO POP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" group-title="CINE Y SERIES", HBO POP
 http://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
 
 
@@ -610,7 +610,7 @@ http://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" tvg-group="INFANTILES", BABY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" group-title="INFANTILES", BABY TV
 https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
 
 
@@ -621,7 +621,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" tvg-group="DEPORTES", FOX SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", FOX SPORTS
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 
@@ -632,7 +632,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WDTGR5W/foxsportsmx.png" tvg-group="DEPORTES", FOX SPORTS MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDTGR5W/foxsportsmx.png" group-title="DEPORTES", FOX SPORTS MX
 https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
 
 
@@ -643,7 +643,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" tvg-group="DEPORTES", FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ryQDk2/foxsports2ar.png" group-title="DEPORTES", FOX SPORTS 2
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
 
 
@@ -654,7 +654,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fQg3Y9M/foxsportscl.png" tvg-group="DEPORTES", FOX SPORTS CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQg3Y9M/foxsportscl.png" group-title="DEPORTES", FOX SPORTS CL
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1117
 
 
@@ -665,7 +665,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1117
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRnM0RH/foxsports2cl.png" tvg-group="DEPORTES", FOX SPORTS 2 CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRnM0RH/foxsports2cl.png" group-title="DEPORTES", FOX SPORTS 2 CL
 https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
 
 
@@ -676,7 +676,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NFP9rk9/foxsports3cl.png" tvg-group="DEPORTES", FOX SPORTS 3 CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NFP9rk9/foxsports3cl.png" group-title="DEPORTES", FOX SPORTS 3 CL
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
 
 
@@ -687,7 +687,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" group-title="CINE Y SERIES", FX
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 
 
@@ -698,7 +698,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN PREMIUM AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" group-title="DEPORTES", ESPN PREMIUM AR
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 
@@ -709,7 +709,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN PREMIUM 2 AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" group-title="DEPORTES", ESPN PREMIUM 2 AR
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1125
 
 
@@ -720,7 +720,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1125
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" tvg-group="DEPORTES", TNT SPORTS AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="DEPORTES", TNT SPORTS AR
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
@@ -731,7 +731,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcMqrCH/tntsportscl.png" tvg-group="DEPORTES", TNT SPORTS CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcMqrCH/tntsportscl.png" group-title="DEPORTES", TNT SPORTS CL
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 
 
@@ -742,7 +742,7 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gF6G83b/tntsports2cl.png" tvg-group="DEPORTES", TNT SPORTS 2 CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gF6G83b/tntsports2cl.png" group-title="DEPORTES", TNT SPORTS 2 CL
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 
 
@@ -754,7 +754,7 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgnQ6Xm/tntsports3cl.png" tvg-group="DEPORTES", TNT SPORTS 3 CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgnQ6Xm/tntsports3cl.png" group-title="DEPORTES", TNT SPORTS 3 CL
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1231
 
 
@@ -765,7 +765,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1231
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sPD20WH/ECDF.png" tvg-group="DEPORTES", EL CANAL DEL FUTBOL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPD20WH/ECDF.png" group-title="DEPORTES", EL CANAL DEL FUTBOL
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 
 
@@ -776,7 +776,7 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" tvg-group="DEPORTES", AFIZZIONADOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="DEPORTES", AFIZZIONADOS
 https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 
 
@@ -787,7 +787,7 @@ https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" tvg-group="DEPORTES", TUDN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="DEPORTES", TUDN
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
 
@@ -798,7 +798,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="CINE Y SERIES", DE PELICULA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" group-title="CINE Y SERIES", DE PELICULA
 https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
 
 
@@ -809,7 +809,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="CINE Y SERIES", DE PELICULA PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" group-title="CINE Y SERIES", DE PELICULA PLUS
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 
 
@@ -820,7 +820,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 
 
@@ -831,7 +831,7 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jp1TrGx/Golden-Edge-Logo.png" tvg-group="CINE Y SERIES", GOLDEN EDGE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jp1TrGx/Golden-Edge-Logo.png" group-title="CINE Y SERIES", GOLDEN EDGE
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
 
@@ -842,7 +842,7 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN PLUS
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 
 
@@ -853,7 +853,7 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kXm4SxG/canal-goldenmultiplex.jpg" tvg-group="CINE Y SERIES", GOLDEN MULTIPLEX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kXm4SxG/canal-goldenmultiplex.jpg" group-title="CINE Y SERIES", GOLDEN MULTIPLEX
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
 
@@ -864,7 +864,7 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZkKFZ6/Logo-TDN.png" tvg-group="DEPORTES", TDN 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZkKFZ6/Logo-TDN.png" group-title="DEPORTES", TDN 
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
 
