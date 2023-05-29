@@ -2014,3 +2014,19 @@ https://webudit.salamus1.lol/lb/premium388/index.m3u8?|referer=https://widevine.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.salamus1.lol/lb/premium387/index.m3u8?|referer=https://widevine.licenses4.me/
 
+
+#EXTINF:-1 group-title="deportes" tvg-id="" tvg-logo="https://telegratis.net/img/dazn1.png" ,DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="deportes" tvg-id="" tvg-logo="https://telegratis.net/img/dazn2.webp" ,DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="deportes" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2524.png" ,DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="deportes" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/
