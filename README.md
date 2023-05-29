@@ -83,6 +83,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" group-title="Deportes", DIRECTV SPORTS CO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
