@@ -1930,8 +1930,7 @@ https://webudit.salamus1.lol/lb/premium539/index.m3u8?|referer=https://widevine.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 https://webudit.salamus1.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="sctv17.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/SCTV_logo_%28Vietnam%29.png" group-title="3. SPORTS",SCTV 17
-http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
+
 
 
 
@@ -2030,3 +2029,25 @@ https://webudit.salamus1.lol/lb/premium447/index.m3u8?|referer=https://widevine.
 #EXTINF:-1 group-title="deportes" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.salamus1.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Deportes",Movistar MAs (+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://webudit.salamus1.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
