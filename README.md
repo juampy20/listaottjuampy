@@ -875,7 +875,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" tvg-group="CINE Y SERIES", TLNOVELAS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" group-title="CINE Y SERIES", TLNOVELAS 
 https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
 
 
@@ -886,7 +886,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" tvg-group="CINE Y SERIES", EUROPA EUROPA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" group-title="CINE Y SERIES", EUROPA EUROPA
 https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
 
 
@@ -897,7 +897,7 @@ https://dtvott-abc.akamaized.net/dash_live_1110/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE Y SERIES", WARNER
 https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
 
 
@@ -908,7 +908,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" group-title="CINE Y SERIES", UNIVERSAL
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
 
@@ -919,7 +919,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Un
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8zJTN/tooncast.png" tvg-group="INFANTILES", TOONCAST
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8zJTN/tooncast.png" group-title="INFANTILES", TOONCAST
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 
@@ -930,7 +930,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KNr815G/tntseries.png" tvg-group="CINE Y SERIES", TNT SERIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNr815G/tntseries.png" group-title="CINE Y SERIES", TNT SERIES
 https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 
 
@@ -941,7 +941,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qWC2wRF/tlc.png" tvg-group="CIENCIA Y CULTURA", TLC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWC2wRF/tlc.png" group-title="CIENCIA Y CULTURA", TLC
 https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
 
 
@@ -952,7 +952,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bX12K0/tcm.png" tvg-group="CINE Y SERIES", TCM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bX12K0/tcm.png" group-title="CINE Y SERIES", TCM
 https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
 
 
@@ -963,7 +963,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" tvg-group="CINE Y SERIES", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="CINE Y SERIES", STUDIO UNIVERSAL
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd
 
 
@@ -974,7 +974,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="CIENCIA Y CULTURA", INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" group-title="CIENCIA Y CULTURA", INVESTIGATION DISCOVERY
 https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
 
 
@@ -985,7 +985,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" group-title="CINE Y SERIES", HBO
 https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
 
 
@@ -996,7 +996,7 @@ https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="CINE Y SERIES", HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" group-title="CINE Y SERIES", HBO FAMILY
 https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
 
 
@@ -1007,7 +1007,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" tvg-group="CINE Y SERIES", HBO 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGXCNJh/hbo2.png" group-title="CINE Y SERIES", HBO 2
 https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
 
 
@@ -1018,7 +1018,7 @@ https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" tvg-group="CINE Y SERIES", STAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Dfxqjp/star.png" group-title="CINE Y SERIES", STAR
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 
 
@@ -1029,7 +1029,7 @@ https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6r6Qmn2/gourmet.png" tvg-group="CINE Y SERIES", GOURMET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r6Qmn2/gourmet.png" group-title="CINE Y SERIES", GOURMET
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
 
@@ -1040,7 +1040,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" tvg-group="INFANTILES", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" group-title="INFANTILES", DISCOVERY KIDS
 https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
 
 
@@ -1051,7 +1051,7 @@ https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" tvg-group="CIENCIA Y CULTURA", HOME & HEALT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8gJHw1/hyh.png" group-title="CIENCIA Y CULTURA", HOME & HEALT
 https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
 
 
@@ -1062,7 +1062,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" tvg-group="INFANTILES", DISNEY JR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPwty1R/disneyjunior.png" group-title="INFANTILES", DISNEY JR
 https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
 
 
@@ -1073,7 +1073,7 @@ https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RbVQjjJ/disneychannel.png" tvg-group="INFANTILES", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RbVQjjJ/disneychannel.png" group-title="INFANTILES", DISNEY CHANNEL
 https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 
 
@@ -1084,7 +1084,7 @@ https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" tvg-group="CINE Y SERIES", CINECANAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
 
 
@@ -1095,7 +1095,7 @@ https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" tvg-group="CINE Y SERIES", COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" group-title="CINE Y SERIES", COMEDY CENTRAL
 https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
 
 
@@ -1106,7 +1106,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KsZ5nr/animalplanet.png" tvg-group="CIENCIA Y CULTURA", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KsZ5nr/animalplanet.png" group-title="CIENCIA Y CULTURA", ANIMAL PLANET
 https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
 
 
@@ -1117,7 +1117,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="CIENCIA Y CULTURA", DISCOVERY CHANNEL
 https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
 
 
@@ -1129,7 +1129,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="DEPORTES", ESPN AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" group-title="DEPORTES", ESPN AR
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 
 
@@ -1140,7 +1140,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0hPTcck/espncl.png" tvg-group="DEPORTES", ESPN CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hPTcck/espncl.png" group-title="DEPORTES", ESPN CL
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1105
 
 
@@ -1151,7 +1151,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1105
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jH5HgcY/espn2cl.png" tvg-group="DEPORTES", ESPN 2 CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jH5HgcY/espn2cl.png" group-title="DEPORTES", ESPN 2 CL
 https://dtvott-abc.akamaized.net/dash_live_1097/manifest.mpd
 
 
@@ -1162,7 +1162,7 @@ https://dtvott-abc.akamaized.net/dash_live_1097/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JdyHnZq/espn3cl.png" tvg-group="DEPORTES", ESPN 3 CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JdyHnZq/espn3cl.png" group-title="DEPORTES", ESPN 3 CL
 https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 
 
@@ -1174,7 +1174,7 @@ https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vZwfPjp/espn4cl.png" tvg-group="DEPORTES", ESPN 4 CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZwfPjp/espn4cl.png" group-title="DEPORTES", ESPN 4 CL
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1116
 
 
@@ -1186,7 +1186,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1116
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN CO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="DEPORTES", ESPN CO
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1106
 
 
@@ -1198,7 +1198,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1106
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THZB74y/espn2co.png" tvg-group="DEPORTES", ESPN 2 CO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THZB74y/espn2co.png" group-title="DEPORTES", ESPN 2 CO
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1098
 
 
@@ -1209,7 +1209,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1098
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jfmKBQ1/espnpe.png" tvg-group="DEPORTES", ESPN PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfmKBQ1/espnpe.png" group-title="DEPORTES", ESPN PE
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 
 
@@ -1221,7 +1221,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MGwsjp/espn2pe.png" tvg-group="DEPORTES", ESPN 2 PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MGwsjp/espn2pe.png" group-title="DEPORTES", ESPN 2 PE
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1260
 
 
@@ -1233,7 +1233,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1260
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SKvnfpR/espnmx.png" tvg-group="DEPORTES", ESPN MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SKvnfpR/espnmx.png" group-title="DEPORTES", ESPN MX
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 
 
@@ -1244,7 +1244,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3X7twQ/espn2ar.png" tvg-group="DEPORTES", ESPN 2 AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3X7twQ/espn2ar.png" group-title="DEPORTES", ESPN 2 AR
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
 
@@ -1255,7 +1255,7 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JBzgk1f/espn2mx.png" tvg-group="DEPORTES", ESPN 2 MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JBzgk1f/espn2mx.png" group-title="DEPORTES", ESPN 2 MX
 https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 
 
@@ -1266,7 +1266,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="DEPORTES", ESPN PLUS
 https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd
 
 
@@ -1277,7 +1277,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ysHZZJk/espn3ar.png" tvg-group="DEPORTES", ESPN 3 AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ysHZZJk/espn3ar.png" group-title="DEPORTES", ESPN 3 AR
 https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 
 
@@ -1288,7 +1288,7 @@ https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FB8VVwm/espn3mx.png" tvg-group="DEPORTES", ESPN 3 MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FB8VVwm/espn3mx.png" group-title="DEPORTES", ESPN 3 MX
 https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
 
 
@@ -1299,7 +1299,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cNrqXm5/a244.png" tvg-group="DEPORTES", ESPN 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cNrqXm5/a244.png" group-title="DEPORTES", ESPN 4
 https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
 
 
@@ -1310,7 +1310,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" tvg-group="CIENCIA Y CULTURA", HISTORY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" group-title="CIENCIA Y CULTURA", HISTORY
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
 
 
@@ -1321,7 +1321,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hL7kptj/trutv.png" tvg-group="CIENCIA Y CULTURA", TRUTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hL7kptj/trutv.png" group-title="CIENCIA Y CULTURA", TRUTV
 https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
 
 
@@ -1332,7 +1332,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" group-title="CINE Y SERIES", CINEMAX
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 
 
@@ -1343,7 +1343,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" tvg-group="CIENCIA Y CULTURA", H2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" group-title="CIENCIA Y CULTURA", H2
 https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
 
 
@@ -1351,7 +1351,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ok1h5oorxLGHm1JKKZTWVA","kid":"eM55icAMUHmcp9_ikbq9Wg"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ng9CcxY/cn.png" tvg-group="INFANTILES", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ng9CcxY/cn.png" group-title="INFANTILES", CARTOON NETWORK
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1365,7 +1365,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" tvg-group="CIENCIA Y CULTURA", NATGEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="CIENCIA Y CULTURA", NATGEO
 https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
 
 
@@ -1376,7 +1376,7 @@ https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" tvg-group="CIENCIA Y CULTURA", HGTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JxLB9yS/hgtv.png" group-title="CIENCIA Y CULTURA", HGTV
 https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
 
 
@@ -1387,7 +1387,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" tvg-group="CINE Y SERIES", SPACE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" group-title="CINE Y SERIES", SPACE
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
 
