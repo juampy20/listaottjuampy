@@ -1398,7 +1398,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" tvg-group="MUSICA", MTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" group-title="MUSICA", MTV
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
 
@@ -1409,7 +1409,7 @@ https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0s8KxrD/mtvhits.png" tvg-group="MUSICA", MTV HITS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0s8KxrD/mtvhits.png" group-title="MUSICA", MTV HITS
 https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
 
 
@@ -1420,7 +1420,7 @@ https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0YyDZxr/MTV00.png" tvg-group="MUSICA", MTV 00
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0YyDZxr/MTV00.png" group-title="MUSICA", MTV 00
 https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
 
@@ -1431,7 +1431,7 @@ https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5zVHLW/telehit.png" tvg-group="MUSICA", TELEHIT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5zVHLW/telehit.png" group-title="MUSICA", TELEHIT
 https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 
 
@@ -1442,7 +1442,7 @@ https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svWxsWL/telehitmusicaa.png" tvg-group="MUSICA", TELEHIT MUSICA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svWxsWL/telehitmusicaa.png" group-title="MUSICA", TELEHIT MUSICA
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 
 
@@ -1453,7 +1453,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xfbZNtg/cm.png" tvg-group="MUSICA", CM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfbZNtg/cm.png" group-title="MUSICA", CM
 https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 
 
@@ -1464,7 +1464,7 @@ https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" tvg-group="CINE Y SERIES", AMC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" group-title="CINE Y SERIES", AMC
 https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 
 
@@ -1475,7 +1475,7 @@ https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f9tXPpF/nick.png" tvg-group="INFANTILES", NICKELODEON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9tXPpF/nick.png" group-title="INFANTILES", NICKELODEON
 https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
 
 
@@ -1486,7 +1486,7 @@ https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" tvg-group="CIENCIA Y CULTURA", A&E
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" group-title="CIENCIA Y CULTURA", A&E
 https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
 
@@ -1497,7 +1497,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" tvg-group="CINE Y SERIES", AXN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" group-title="CINE Y SERIES", AXN
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 
@@ -1508,7 +1508,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" tvg-group="CINE Y SERIES", SONY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" group-title="CINE Y SERIES", SONY
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
 
@@ -1519,7 +1519,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW18VVZ/tnt.png" tvg-group="CINE Y SERIES", TNT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW18VVZ/tnt.png" group-title="CINE Y SERIES", TNT
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
 
 
@@ -1530,7 +1530,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.m
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9b0mC0D/cnn.png" tvg-group="ARGENTINA", CNN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9b0mC0D/cnn.png" group-title="ARGENTINA", CNN
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 
 
@@ -1541,7 +1541,7 @@ https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6Jw63P7/telefe.png" tvg-group="ARGENTINA", TELEFE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Jw63P7/telefe.png" group-title="ARGENTINA", TELEFE
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
 
@@ -1552,7 +1552,7 @@ https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yFKTs3P/trece.png" tvg-group="ARGENTINA", CANAL 13
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFKTs3P/trece.png" group-title="ARGENTINA", CANAL 13
 https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
 
 
@@ -1564,7 +1564,7 @@ https://dtvott-abc.akamaized.net/dash_live_1095/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S65qfr0/elnueve.png" tvg-group="ARGENTINA", CANAL 9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S65qfr0/elnueve.png" group-title="ARGENTINA", CANAL 9
 https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 
 
@@ -1575,7 +1575,7 @@ https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-group="DEPORTES", TYC SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="DEPORTES", TYC SPORTS
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
 
@@ -1587,7 +1587,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" tvg-group="DEPORTES", WIN SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="DEPORTES", WIN SPORTS PLUS
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1251
 
 
@@ -1599,12 +1599,12 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1251
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qYbc2M/win.jpg" tvg-group="DEPORTES", WIN SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qYbc2M/win.jpg" group-title="DEPORTES", WIN SPORTS
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1250
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jTpWsm6/tennis.jpg" tvg-group="DEPORTES", TENNIS CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jTpWsm6/tennis.jpg" group-title="DEPORTES", TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8 
 
 
@@ -1615,7 +1615,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzNYgKf/c5n.png" tvg-group="ARGENTINA", C5N
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzNYgKf/c5n.png" group-title="ARGENTINA", C5N
 https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 
 
@@ -1626,7 +1626,7 @@ https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3zKJTqt/syfy.jpg" tvg-group="CINE Y SERIES", SYFY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3zKJTqt/syfy.jpg" group-title="CINE Y SERIES", SYFY
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 
 
@@ -1637,7 +1637,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" tvg-group="CINE Y SERIES", TBS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" group-title="CINE Y SERIES", TBS
 https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
@@ -1649,7 +1649,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gwh3zDd/azmundo.png" tvg-group="CINE Y SERIES", AZMUNDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gwh3zDd/azmundo.png" group-title="CINE Y SERIES", AZMUNDO
 https://dtvott-cbc.akamaized.net/dash_live_1023/manifest.mpd
 
 
@@ -1661,21 +1661,21 @@ https://dtvott-cbc.akamaized.net/dash_live_1023/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mfD9vK/tvpub.png" tvg-group="ARGENTINA", TV PUBLICA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mfD9vK/tvpub.png" group-title="ARGENTINA", TV PUBLICA
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" tvg-group="XXX", PLAYBOY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" group-title="XXX", PLAYBOY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/playboy.json
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" tvg-group="XXX", SEXTREME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" group-title="XXX", SEXTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/sextreme.json
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" tvg-group="XXX", VENUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" group-title="XXX", VENUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/venus.json
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
@@ -1688,7 +1688,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zXF5D00/a24.png" tvg-group="ARGENTINA", AMERICA 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXF5D00/a24.png" group-title="ARGENTINA", AMERICA 24
 https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
 
 
@@ -1700,7 +1700,7 @@ https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sv4DKCW/Net-TV-logo.png" tvg-group="ARGENTINA", NET TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sv4DKCW/Net-TV-logo.png" group-title="ARGENTINA", NET TV
 https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
 
 
@@ -1711,7 +1711,7 @@ https://dtvott-abc.akamaized.net/dash_live_1172/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XXLGnrr/26.png" tvg-group="ARGENTINA", MAGAZINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXLGnrr/26.png" group-title="ARGENTINA", MAGAZINE
 https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 
 
@@ -1722,7 +1722,7 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzpf7T5/3644.png" tvg-group="ARGENTINA", LA NACION +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzpf7T5/3644.png" group-title="ARGENTINA", LA NACION +
 https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 
 
@@ -1733,7 +1733,7 @@ https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnbPsVR/477.png" tvg-group="ARGENTINA", ENCUENTRO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnbPsVR/477.png" group-title="ARGENTINA", ENCUENTRO
 https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
 
 
@@ -1744,12 +1744,12 @@ https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GcsFKmd/argen.png" tvg-group="ARGENTINA", ARGENTINISIMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GcsFKmd/argen.png" group-title="ARGENTINA", ARGENTINISIMA
 https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d50WWDf/telemax.png" tvg-group="ARGENTINA", TELEMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d50WWDf/telemax.png" group-title="ARGENTINA", TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 
@@ -1760,7 +1760,7 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" tvg-group="ESPAÃ‘A", ANTENA 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÃ‘A", ANTENA 3
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
 
