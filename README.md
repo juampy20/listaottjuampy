@@ -70,7 +70,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1246
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="Deportes", DIRECTV SPORTS AR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -78,14 +78,13 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1246
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="Deportes", DIRECTV SPORTS AR
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
 
 
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="Deportes", DIRECTV SPORTS CL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -93,7 +92,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="Deportes", DIRECTV SPORTS CL
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
 
 
