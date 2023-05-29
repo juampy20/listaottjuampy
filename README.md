@@ -191,7 +191,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0070
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD7D89r/globo.png" group-title="noticias", TV GLOBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD7D89r/globo.png" group-title="NOTICIAS", TV GLOBO
 https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd
 
 
@@ -446,7 +446,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Chann
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QcYpVm7/Canal-26-en-vivo-online-on-line.png" group-title="ARGENTINA", 26 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QcYpVm7/Canal-26-en-vivo-online-on-line.png" group-title="NOTICIAS", 26 TV
 http://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 
@@ -490,7 +490,7 @@ https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nfdPqS0/tn.png" group-title="ARGENTINA", TN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nfdPqS0/tn.png" group-title="NOTICIAS", TN
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -500,7 +500,7 @@ https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" group-title="ARGENTINA", CRONICA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" group-title="NOTICIAS", CRONICA TV
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 
 
@@ -1530,7 +1530,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.m
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9b0mC0D/cnn.png" group-title="ARGENTINA", CNN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9b0mC0D/cnn.png" group-title="NOTICIAS", CNN
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 
 
@@ -1615,7 +1615,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzNYgKf/c5n.png" group-title="ARGENTINA", C5N
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzNYgKf/c5n.png" group-title="NOTICIAS", C5N
 https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 
 
@@ -1688,7 +1688,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zXF5D00/a24.png" group-title="ARGENTINA", AMERICA 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXF5D00/a24.png" group-title="NOTICIAS", AMERICA 24
 https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
 
 
@@ -1722,7 +1722,7 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzpf7T5/3644.png" group-title="ARGENTINA", LA NACION +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzpf7T5/3644.png" group-title="NOTICIAS", LA NACION +
 https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 
 
