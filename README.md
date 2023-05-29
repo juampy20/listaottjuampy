@@ -48,11 +48,6 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YbbKjxc/bcs.jpg" tvg-group="Deportes", BESTCABLE SPORTS
-https://ca2.inka.net.pe/bestcablesports/playlist.m3u8
-
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -106,16 +101,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
 
 
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "B8FzWtrBXeh33z+BtPxHMQ","kid": "6bxqHGTgXDWqcuErFtNSRw"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png" tvg-group="Deportes", DIRECTV SPORTS EC
-https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
 
 
 
@@ -280,27 +265,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "RbRQi78MAr9SMQQVfiztgQ","kid": "R3KW4op/SSaKvEVoW4tpow"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cTC9Jws/Logo-DHE.png" tvg-group="CINE Y SERIES", DHE
-https://anbalancer.express.com.ar/live/c1eds/DHE_HD/SA_DASH_cipix/DHE_HD.mpd
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "MLnzC7e6OxpR1+OfRvNxrQ","kid": "jayYbFm3U12kw8eeDVXuQw"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DVGQKwh/smi.png" tvg-group="CINE Y SERIES", SMITHSONIAN CHANNEL
-https://dtvott-abc.akamaized.net/dash_live_1188/manifest.mpd
 
 
 
@@ -427,17 +391,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE OP2
-https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -505,15 +458,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"biVaMkTklvVpcX1VkzL8CA","kid":"fEDn8r5pWx2vomHmciad7Q"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0XxZh0x/natgeokids.png" tvg-group="INFANTILES", NATGEO KIDS
-https://dtvott-cbc.akamaized.net/dash_live_1167/manifest.mpd
 
 
 
@@ -804,16 +748,6 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yuv9HgePExX55m_5hUTBJQ","kid":"kP0CJSU6QsieNtS8WgB0mA"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" tvg-group="DEPORTES", FOX SPORTS OP2
-https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
 
 
 
@@ -1182,14 +1116,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "0f0k2xth1jTKv8RFOM6bDg","kid": "U9dS5GSdrdgI2ROYX4budw"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
 
 
 
@@ -1307,15 +1233,7 @@ https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"20D8kaXIA_N05pLDM58Kwg","kid":"RY9wA06JWpOlNM5Tf4rjFQ"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8r5CncS/disneyxd.png" tvg-group="INFANTILES", DISNEY XD
-https://dtvott-abc.akamaized.net/dash_live_1088/manifest.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1915,9 +1833,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1250
 
 
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v30TL5k/f1.jpg" tvg-group="DEPORTES", F1
-https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=192
+
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36"
@@ -1925,8 +1841,7 @@ https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=192
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WVKT7RP/clarosp.jpg" tvg-group="DEPORTES", CLARO SPORTS
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1965,15 +1880,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "sovcHEYJC4YKi83Bzclalw","kid": "Mmf9Mt4bUmCf9lBd1n0yCw"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nBNf8Ty/lifetime.png" tvg-group="CINE Y SERIES", LIFETIME
-https://dtvott-cbc.akamaized.net/dash_live_1159/manifest.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2100,15 +2007,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisim
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "VMZMdRbzOJJqASqxR3ZOhw","kid": "e+NiRTmidSNJGRrh0xrLCw"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48Qv8dg/viajar.png" tvg-group="ARGENTINA", VIAJAR
-https://cdn.cvattv.com.ar/live/c6eds/Viajar/SA_Live_dash_enc/Viajar.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
