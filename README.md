@@ -35,7 +35,7 @@ https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="Deportes", VTV PLUS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" group-title="Deportes", VTV PLUS 
 https://1246-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -46,7 +46,7 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdDnH8N/Cdo.jpg" tvg-group="Deportes", CDO PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdDnH8N/Cdo.jpg" group-title="Deportes", CDO PREMIUM
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1039
 
 
@@ -57,11 +57,11 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1039
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="Deportes", VTV PLUS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" group-title="Deportes", VTV PLUS 2
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1246
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="Deportes", DIRECTV SPORTS AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="Deportes", DIRECTV SPORTS AR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -72,7 +72,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1246
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="Deportes", DIRECTV SPORTS CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" group-title="Deportes", DIRECTV SPORTS CL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -83,7 +83,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" tvg-group="Deportes", DIRECTV SPORTS CO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" group-title="Deportes", DIRECTV SPORTS CO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -102,7 +102,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1059
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" tvg-group="Deportes", DIRECTV SPORTS UY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" group-title="Deportes", DIRECTV SPORTS UY
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1062
 
 
@@ -114,7 +114,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1062
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SP5jpff/dtvpe.png" tvg-group="Deportes", DIRECTV SPORTS PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SP5jpff/dtvpe.png" group-title="Deportes", DIRECTV SPORTS PE
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1061
 
 
@@ -125,7 +125,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1061
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="Deportes", DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" group-title="Deportes", DIRECTV SPORTS 2
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063
 
 
@@ -136,7 +136,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="Deportes", LIGA1 MAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="Deportes", LIGA1 MAX
 https://dtvott-abc.akamaized.net/dash_live_1272/manifest.mpd
 
 
@@ -147,7 +147,7 @@ https://dtvott-abc.akamaized.net/dash_live_1272/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" tvg-group="Deportes", DIRECTV SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" group-title="Deportes", DIRECTV SPORTS PLUS
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 
@@ -158,7 +158,7 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" tvg-group="Deportes", SPORTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="Deportes", SPORTV
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0068
 
 
@@ -169,7 +169,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0068
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9ysPbnj/sportv2.png" tvg-group="Deportes", SPORT TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ysPbnj/sportv2.png" group-title="Deportes", SPORT TV 2
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0069
 
 
@@ -180,7 +180,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0069
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QmxMQrQ/spprtv3.png" tvg-group="Deportes", SPORT TV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QmxMQrQ/spprtv3.png" group-title="Deportes", SPORT TV 3
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0070
 
 
@@ -191,7 +191,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0070
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD7D89r/globo.png" tvg-group="noticias", TV GLOBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD7D89r/globo.png" group-title="noticias", TV GLOBO
 https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd
 
 
@@ -202,7 +202,7 @@ https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PQHbG7z/Dtvfith.png" tvg-group="Deportes", DIRECTV SPORTS FIGHT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQHbG7z/Dtvfith.png" group-title="Deportes", DIRECTV SPORTS FIGHT
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
 
 
@@ -213,7 +213,7 @@ https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" group-title="CINE Y SERIES", PASIONES
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
 
