@@ -30,7 +30,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="-" tvg-group="regional", ṕorteña
+#EXTINF:-1 tvg-logo="-" tvg-group="regional",PORTEÑA
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
 
