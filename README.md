@@ -1849,7 +1849,46 @@ https://webudit.salamus1.lol/lb/premium19/index.m3u8?|referer=https://widevine.l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.salamus1.lol/lb/premium20/index.m3u8?|referer=https://widevine.licenses4.me/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium21/index.m3u8?|referer=https://widevine.licenses4.me/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium22/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium23/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium24/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium25/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium26/index.m3u8?|referer=https://widevine.licenses4.me/
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium27/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium28/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium29/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium30/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
 
