@@ -1765,8 +1765,8 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÃ‘A", ANTENA 3
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÃ‘A", LA SEXTA
+https://bit.ly/3NbhtVf?/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="-" group-title="3. SPORTS",ch1
