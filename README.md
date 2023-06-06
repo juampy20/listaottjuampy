@@ -1673,7 +1673,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" group-title="XXX", PLAYBOY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" group-title="adultos", PLAYBOY
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 
 
@@ -1684,7 +1684,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" group-title="XXX", SEXTREME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" group-title="adultos", SEXTREME
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
 
 
@@ -1695,7 +1695,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" group-title="XXX", VENUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" group-title="adultos", VENUS
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
 
 
