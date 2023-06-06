@@ -1666,20 +1666,36 @@ https://dtvott-cbc.akamaized.net/dash_live_1023/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mfD9vK/tvpub.png" group-title="ARGENTINA", TV PUBLICA
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "9gigrHA8+q+UQldNmiuH+w","kid": "hXfYHq8zQ22fHkgjYGhafA"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" group-title="XXX", PLAYBOY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/playboy.json
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "eeKO4OxYlYu2ZvnlOgzUNA","kid": "lb1kInrPRY2veIb4A9Apjg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" group-title="XXX", SEXTREME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/sextreme.json
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Bdlz2YeRUSDlZ4gPUKQirw","kid": "NCN9KuZoTuegEfW5x8Q+bQ"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" group-title="XXX", VENUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/venus.json
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
 
 
