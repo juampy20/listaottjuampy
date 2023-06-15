@@ -38,6 +38,9 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",PORTEÑA
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",Morteros
+https://coopmorteros.online/canal50/vivo.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
