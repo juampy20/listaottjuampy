@@ -45,7 +45,7 @@ https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "9gigrHA8+q+UQldNmiuH+w","kid": "hXfYHq8zQ22fHkgjYGhafA"}],"type": "temporary"} 
-#EXTINF:-1 tvg-logo="-" group-title="adulto", adulto 1
+#EXTINF:-1 tvg-logo="-" group-title="MAYORES", adulto 1
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -55,7 +55,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "eeKO4OxYlYu2ZvnlOgzUNA","kid": "lb1kInrPRY2veIb4A9Apjg"}],"type": "temporary"} 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" group-title="adulto", adulto 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" group-title="MAYORES", adulto 2 
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
 
 
