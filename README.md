@@ -22,6 +22,7 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd
 https://1108-vos.dtvott.com/DASH/manifest.mpd
 
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -31,6 +32,7 @@ https://1108-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c4697bf458da52f8b96b36cce761d571:a4dee77615279c858b19e5bb69ab6755
 #EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports 🇦🇷  test dtv
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",PORTEÑA
