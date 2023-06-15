@@ -48,7 +48,6 @@ https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -93,7 +92,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" group-title="Deportes", DIRECTV SPORTS CO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -105,7 +103,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1059
 
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -115,7 +112,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1059
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" group-title="Deportes", DIRECTV SPORTS UY
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1062
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
