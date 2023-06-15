@@ -39,22 +39,10 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",Morteros
-https://coopmorteros.online/canal50/vivo.m3u8
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",Freyre
-https://online.coopmorteros.coop/freyre/freyre.m3u8
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",EL DOCE Cordoba
+https://csc-ptn-edge01.sensa.com.ar/output/Canal12D/output.mpd
 
 
 
