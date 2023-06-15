@@ -94,6 +94,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1039
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1246
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="Deportes", DIRECTV SPORTS AR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
