@@ -41,6 +41,9 @@ https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",Morteros
 https://coopmorteros.online/canal50/vivo.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",Freyre
+https://online.coopmorteros.coop/freyre/freyre.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
