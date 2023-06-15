@@ -45,7 +45,14 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",PORTEÑA
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1500 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "9gigrHA8+q+UQldNmiuH+w","kid": "hXfYHq8zQ22fHkgjYGhafA"}],"type": "temporary"} 
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL", PLAYBOY https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 
 
 
