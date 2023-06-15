@@ -62,14 +62,8 @@ https://online.coopmorteros.coop/freyre/freyre.m3u8
 http://204.199.3.2/.m3u8
 
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",Brinkman
-https://coonet.online:4433/dash/canal1_hd.mpd
+https://csc-ptn-edge01.sensa.com.ar/output/ARR3/BRKD/output.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
