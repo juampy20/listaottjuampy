@@ -12,7 +12,6 @@
 https://1246-vos.dtvott.com/DASH/manifest.mpd
 
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
