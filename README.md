@@ -42,7 +42,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1500 
+#EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
