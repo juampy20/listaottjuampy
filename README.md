@@ -49,6 +49,7 @@ https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" group-title="MAYORES", playboy
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
