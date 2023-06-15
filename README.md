@@ -12,8 +12,6 @@
 https://1246-vos.dtvott.com/DASH/manifest.mpd
 
 
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -23,8 +21,6 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="Deportes", ESPN 🇲🇽 (DTV)  
 https://1108-vos.dtvott.com/DASH/manifest.mpd
-
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
