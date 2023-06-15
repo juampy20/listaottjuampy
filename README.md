@@ -47,6 +47,9 @@ https://online.coopmorteros.coop/freyre/freyre.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",San Francisco
 http://204.199.3.2/.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",Brinkman
+https://coonet.online:4433/dash/canal1_hd.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
