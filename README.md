@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -11,8 +10,6 @@
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" group-title="Deportes", VTV PLUS 
 https://1246-vos.dtvott.com/DASH/manifest.mpd
-
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
