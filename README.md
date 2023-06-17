@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1  group-title="CABLE", AMERICA TV PERU
-http://23.237.108.234/hls/PERU_AMERICA_TVC-720.m3u8|User-Agent=Roku/DVP(10.10.10)
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -10,7 +8,7 @@ http://23.237.108.234/hls/PERU_AMERICA_TVC-720.m3u8|User-Agent=Roku/DVP(10.10.10
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b9fc5a15382b35818904ecbeed545fd0:8b4d83e2c382780ca615ce6cd6754d79 
-#EXTINF:-1 tvg-logo="-" group-title="arg", America Tv Peru
+#EXTINF:-1 tvg-logo="-" group-title="PERU", America Tv Peru
 https://1011-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="-" group-title="PERU",Latina
