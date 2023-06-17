@@ -10,6 +10,17 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Cancun
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal Nuevo Leon
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Santillo
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Jalisco
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
 
 
 
