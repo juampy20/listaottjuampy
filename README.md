@@ -13,6 +13,18 @@ https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TVS
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Solo Stand up
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",EX TV
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TRT
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+
+
+
+
 
 
 
