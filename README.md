@@ -22,6 +22,17 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="MEXICO",Jalisco
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Mexiquense
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Guadlajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 
 
