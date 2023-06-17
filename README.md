@@ -1,5 +1,14 @@
 #EXTM3U
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b9fc5a15382b35818904ecbeed545fd0:8b4d83e2c382780ca615ce6cd6754d79 
+#EXTINF:-1 tvg-logo="-" group-title="arg", America Tv Peru
+https://1011-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:-1 tvg-logo="-" group-title="PERU",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
