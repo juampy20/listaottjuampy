@@ -54,6 +54,19 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="PERU",hechicera tv
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="PERU",OK tv
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Peru Channel
+https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Telecolor
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+
+
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
