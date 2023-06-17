@@ -43,6 +43,16 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 3
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Teleplay
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",AMX N
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+
 
 
 
