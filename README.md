@@ -15,6 +15,12 @@ https://bit.ly/43xuvkW?/playlist720_p.m3u8
 
 
 
+
+
+
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -32,6 +38,18 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 
 #EXTINF:-1 tvg-logo="-" group-title="PERU",Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Memorias tv
+https://mediacp.us:8081/8002/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Antares
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+
+
+
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
