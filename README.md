@@ -1,6 +1,21 @@
 #EXTM3U
 
 
+
+
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Promar tv
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TVS
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="-" group-title="MEXICO",Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
