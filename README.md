@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1  group-title="CABLE", AMERICA TV PERU
+http://23.237.108.234/hls/PERU_AMERICA_TVC-720.m3u8|User-Agent=Roku/DVP(10.10.10)
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
