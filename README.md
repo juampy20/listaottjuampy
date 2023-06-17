@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Latina
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 #EXTINF:-1 tvg-logo="-" group-title="PERU",TV Peru HD
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
