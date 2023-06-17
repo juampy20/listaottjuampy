@@ -3,10 +3,13 @@
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/partypoker.webp",🇺🇸 ♠️➾ Party Poker [Plex]
 https://bit.ly/3orqoZ6?/playlist720_p.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wptPoker.png",🇺🇸 ♠️➾ Poker tv [Distrotv]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://wst.tv/apple-touch-icon.png",🇺🇸 🎱➾ World Billiards tv [Otteratv]
 https://bit.ly/3JYZmO5?/playlist720_p.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/billiardTV.webp",🇺🇸 🎱➾ Billiard TV [Distrotv]
 https://bit.ly/43xuvkW?/playlist720_p.m3u8
 
