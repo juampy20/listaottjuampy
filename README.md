@@ -69,6 +69,11 @@ https://live.obslivestream.com/tv5/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="PERU",Peruanisima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Mayo tv
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
