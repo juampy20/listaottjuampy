@@ -1857,12 +1857,7 @@ https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",🇪🇸 ➾ TeleMadrid
 https://telemadridhls2-live-hls.secure2.footprint.net:443/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e",🇪🇸 ➾ La Otra
-https://laotrahls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://rtvc.es/archivos/2021/03/RTVC272.png",🇪🇸 ➾ Televisión Canariaᴴᴰ [Youtube]
-https://www.youtube.com/embed/6LlZXt8nk4s?autoplay=1
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ➾ Canal Sur Andaluciaᴴᴰ [Youtube]
-https://youtu.be/FBZbfDoALOk?autoplay=1
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",🇻🇪 ➾ TeleSurᴴᴰ
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
 #EXTINF:-1 tvg-name="" group-title="Espanha" tvg-logo="https://telesurcostarica.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png",🇨🇷 ➾ TeleSurᴴᴰ
@@ -1870,7 +1865,8 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/svg/5/3/1543939977835.svg",🇵🇾 ➾ Treceᴴᴰ
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="-" group-title="Espanha", ESPN LA LIGA 
+https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8
 
 
 
