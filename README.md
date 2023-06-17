@@ -45,10 +45,14 @@ https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="PERU",Antares
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Autentico
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Genios
+https://live.obslivestream.com/geniostvmux/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="-" group-title="PERU",hechicera tv
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
 
 
 
