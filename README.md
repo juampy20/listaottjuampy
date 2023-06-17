@@ -34,6 +34,16 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 1
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 3
+https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/partypoker.webp",🇺🇸 ♠️➾ Party Poker [Plex]
