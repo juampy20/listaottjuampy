@@ -1818,6 +1818,28 @@ https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 #EXTINF:-1 tvg-logo="-" group-title="ESPAÃ‘A", LA SEXTA
 https://bit.ly/3NbhtVf?/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="ESPAÃ‘A", Rtve
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="ESPAÃ‘A", LA UNO
+https://ztnr.rtve.es/ztnr/1688876.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="ESPAÃ‘A", LA DOS
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="ESPAÃ‘A", El Comidista
+https://bit.ly/3pXfx9q?/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="ESPAÃ‘A", A3 Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="ESPAÃ‘A", Mega 7
+https://bit.ly/3WBbnR1?/manifest.m3u8
+
+
+
 
 
 
