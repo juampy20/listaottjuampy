@@ -63,9 +63,11 @@ https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="PERU",Telecolor
 https://live.obslivestream.com/telecolormux/index.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Tv 5
+https://live.obslivestream.com/tv5/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Peruanisima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
 
 
