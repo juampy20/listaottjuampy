@@ -1,6 +1,19 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Cancun
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/partypoker.webp",🇺🇸 ♠️➾ Party Poker [Plex]
 https://bit.ly/3orqoZ6?/playlist720_p.m3u8
 
