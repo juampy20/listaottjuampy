@@ -22,6 +22,9 @@ https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TRT
 https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Torococo
+https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8
+
 
 
 
