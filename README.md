@@ -6,6 +6,9 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-logo="-" group-title="PERU",TV Peru HD
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
