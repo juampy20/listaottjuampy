@@ -1,7 +1,15 @@
 #EXTM3U
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "7e+LqXnWSs6jyCfc1R0h7Q==","kid": "gvjioX2sRMChj2YEeTScWQ=="}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="Deportes", DAZN TEST
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 
 
 #EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision
