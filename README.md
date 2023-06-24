@@ -10,7 +10,7 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="test",  TEST
+#EXTINF:-1 tvg-logo="-" group-title="test",  TEST
 https://edge-live17-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
 
