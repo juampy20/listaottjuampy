@@ -12,6 +12,16 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="Deportes", DAZN TEST
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "edef8ba9-79d6-4ace-a3c8-27dcd51d21ed","kid": "82f8e2a1-7dac-44c0-a18f-660479349c59"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="Deportes", DAZN TEST2
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
+
 
 #EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8  
