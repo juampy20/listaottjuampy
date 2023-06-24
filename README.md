@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:edef8ba979d64acea3c827dcd51d21ed
 #EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="test",  TEST
 https://edge-live17-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
