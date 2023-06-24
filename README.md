@@ -5,13 +5,12 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbbf7ae40e44e3be75e42e76005f7bd03105f36df4d78d82:f40d38174efdf7ce34e36f3a001f7613ae41134f3ce45f79
+#KODIPROP:inputstream.adaptive.license_key=451d7a434eee1e4cd25299b59c1ed21a:f345c09f833a21151bebff42364a6b15e6ba649
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="test",  TEST
-https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
-
+https://edge-live17-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
 
 
