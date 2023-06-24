@@ -2,6 +2,7 @@
 
 
 
+
 "name": "NET TV",
         "uri": "https://edge5-hr.cvattv.com.ar/live/c2live/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd",
         "drm_scheme": "widevine",
