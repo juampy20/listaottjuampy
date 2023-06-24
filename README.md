@@ -5,7 +5,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mgTweZhAQoarkuZb4IhflQ","kid": "gvjioX2sRMChj2YEeTScWQ"}],"type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key=dbbf7ae40e44e3be75e42e76005f7bd03105f36df4d78d82:103105f0103defd0fae000840370bcdbb0c20f9d43db5103
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
