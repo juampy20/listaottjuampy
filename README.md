@@ -9,18 +9,10 @@
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="Deportes", DAZN TEST
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="test",  TEST
+https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mgTweZhAQoarkuZb4IhflQ==","kid": "gvjioX2sRMChj2YEeTScWQ=="}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSD1Kdm/sportv.png" group-title="Deportes", DAZN TEST2
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
+
 
 
 #EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision
@@ -405,7 +397,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0069
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "AwYB5gXCiWpELHPVdaMjqA","kid": "CKQndCQHOhW62v73AaQriw"}],"type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key=dbbf7ae40e44e3be75e42e76005f7bd03105f36df4d78d82:103105f0103defd0fae000840370bcdbb0c20f9d43db5103
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
