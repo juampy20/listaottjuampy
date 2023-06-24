@@ -3,7 +3,7 @@
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:edef8ba979d64acea3c827dcd51d21ed
