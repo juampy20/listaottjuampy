@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+"name": "NET TV",
+        "uri": "https://edge5-hr.cvattv.com.ar/live/c2live/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM="
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=N2FhOTI2NmVkOTFlYTQ1MTA0ODMzNzAwMjlkZmNmNDU
