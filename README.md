@@ -7,7 +7,7 @@
 #EXTINF:0 tvg-logo="-" group-title="test",test
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
-N2FhOTI2NmVkOTFlYTQ1MTA0ODMzNzAwMjlkZmNmNDU
+
 
 #EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8  
