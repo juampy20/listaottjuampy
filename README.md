@@ -2414,6 +2414,9 @@ https://webudit.cdnhks.lol/lb/premium521/index.m3u8?|referer=https://widevine.li
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Deportes",Movistar MAs (+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://pro.zorrohd8.xyz/live/ST37f31fa63758b59.m3u8?|referer=https://player.tutelehd5.xyz/embed.php
 
 
 
