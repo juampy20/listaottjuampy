@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="|Sport",  test DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="|Sport",  test telefe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
-
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"7e+LqXnWSs6jyCfc1R0h7Q","kid":"PAZLuh43Tlo4HdCjRPEc7A"}],"type":"temporary"}
+https://edge-live17-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=N2FhOTI2NmVkOTFlYTQ1MTA0ODMzNzAwMjlkZmNmNDU
