@@ -5,10 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"7e+LqXnWSs6jyCfc1R0h7Q","kid":"PAZLuh43Tlo4HdCjRPEc7A"}],"type":"temporary"}
 https://edge-live17-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=N2FhOTI2NmVkOTFlYTQ1MTA0ODMzNzAwMjlkZmNmNDU
-#EXTINF:0 tvg-logo="-" group-title="test",test
-https://edge-live17-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+
 
 
 
