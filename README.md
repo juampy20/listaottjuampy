@@ -1,9 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="|Sport",  test telefe
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"7e+LqXnWSs6jyCfc1R0h7Q","kid":"PAZLuh43Tlo4HdCjRPEc7A"}],"type":"temporary"}
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 
 
