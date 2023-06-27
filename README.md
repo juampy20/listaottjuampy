@@ -7,8 +7,21 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db764164934a48749a7a01bd015694f3:512f3c8869af45e6e5dd1525b6a77867 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="arg", test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="arg", isat
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc/ISAT.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="arg", espn
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+
 
 
 #EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision
