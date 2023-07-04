@@ -2,9 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-id="MEXICO" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es"  group-title="test",LAS ESTRELLAS
-http://200.123.15.181:6011/play/a015/index.m3u8
-
 
 
 
