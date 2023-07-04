@@ -1,16 +1,12 @@
 #EXTM3U
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41039bc28fcbd20f77843a69161296a9:baad89829b60457d9e8273856f6de7b8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="test", test
-https://1011-vos.dtvott.com/DASH/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telefe.png" group-title="mar del plata",TELEFE 8 de mar del plata https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="mar del plata",Canal 6 Mar del Plata https://panel.dattalive.com/8166/8166/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="mar del plata",Canal 10 Mar 
+https://g3.vxral-slo.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
