@@ -1,6 +1,19 @@
 #EXTM3U
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="MEXICO" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es"  group-title="test",AZTECA 1 HD
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telefe.png" group-title="mar del plata",TELEFE 8 de mar del plata https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="mar del plata",Canal 6 Mar del Plata https://panel.dattalive.com/8166/8166/playlist.m3u8
