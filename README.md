@@ -2116,8 +2116,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/svg/5/3/1543939977835.svg",🇵🇾 ➾ Treceᴴᴰ
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="Espanha", ESPN LA LIGA 
-https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8
 
 
 
@@ -2515,10 +2513,6 @@ https://webudit.cdnhks.lol/lb/premium448/index.m3u8?|referer=https://widevine.li
 https://webudit.cdnhks.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png" group-title="Deportes",Movistar MAs (+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://pro.zorrohd8.xyz/live/ST37f31fa63758b59.m3u8?|referer=https://player.tutelehd5.xyz/embed.php
 
 
 
