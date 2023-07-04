@@ -6,7 +6,7 @@
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a96fd1db1861f680861c9724c4b338f0:edef8ba979d64acea3c827dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=41039bc28fcbd20f77843a69161296a9:b440b7fc2f7f4708ded3022e760dff2a36aed9a0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="test", test
 https://1011-vos.dtvott.com/DASH/manifest.mpd
 
