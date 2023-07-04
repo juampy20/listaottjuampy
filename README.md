@@ -5,8 +5,7 @@
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="mar del plata",Canal 6 Mar del Plata https://panel.dattalive.com/8166/8166/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="mar del plata",Canal 10 Mar 
-https://g3.vxral-slo.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
