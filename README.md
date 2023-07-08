@@ -171,6 +171,8 @@ https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
 https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",TIGO SPORTS 
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
 
