@@ -332,6 +332,11 @@ https://1246-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="Deportes", ESPN 🇲🇽 (DTV)  
 https://1108-vos.dtvott.com/DASH/manifest.mpd
 
+#EXTINF:-2001 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES", BEIN SPORTS XTRA Ñ
+https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
+
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
