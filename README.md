@@ -290,7 +290,8 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 
 ----------------------------------------------------------------
-
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",CANAL 10
+https://csc-ptn-edge01.sensa.com.ar/output/Canal10D/output.mpd
 
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",MORTEROS
 https://online.coopmorteros.coop/canal50_dash/vivo.mpd
