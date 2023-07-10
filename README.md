@@ -292,6 +292,9 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 ----------------------------------------------------------------
 
 
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",MORTEROS
+https://online.coopmorteros.coop/canal50_dash/vivo.mpd
+
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",PORTEÑA
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
