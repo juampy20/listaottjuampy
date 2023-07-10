@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-user-agent="FireFox" #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=9a04f07998404286ab92e65be0885f95:edef8ba979d64acea3c827dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=c77d454bc19c7fce234a45935deada58:cbecc6227476cbaae5e84c6c11055e0d
 #EXTINF:-1 tvg-logo="-" group-title="test", test
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
 
