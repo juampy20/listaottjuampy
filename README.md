@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" #EXTVLCOPT--http-reconnect=true 
@@ -11,7 +9,6 @@
 #KODIPROP:inputstream.adaptive.license_key=ff7400cd7afdabf514dfab6a6e59371e:02b3950f1260356ad3c237c289809a1b
 #EXTINF:-1 tvg-logo="-" group-title="test", test
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
-
 
 
 
