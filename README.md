@@ -2,6 +2,12 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPNPremium.png" group-title="MLS INTER MIAMI", MESSI
+https://1125-vos.dtvott.com/DASH/manifest.mpd
+
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" #EXTVLCOPT--http-reconnect=true 
