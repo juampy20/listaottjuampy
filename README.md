@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPNPremium.png" group-title="MLS INTER MIAMI", MESSI
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS INTER MIAMI", MESSI
 https://ssss79.jokerplayer7.online:8081/live/bastad2.m3u8?e=1689087448&st=JBUKpKTJQ0qePFEt9Tjtvg
 
 
