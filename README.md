@@ -2009,6 +2009,9 @@ https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9b0mC0D/cnn.png" group-title="NOTICIAS", CNN
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/unnamed-1-e1637259500776.png" group-title="NOTICIAS", CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_12.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
