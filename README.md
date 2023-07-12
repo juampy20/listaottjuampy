@@ -1268,7 +1268,7 @@ https://anbalancer.express.com.ar/live/c1eds/Film_Arts/SA_DASH_cipix/Film_Arts.m
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jL2gNM/icon.png" group-title="CINE Y SERIES", FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jL2gNM/icon.png" group-title="COCINA", FOOD NETWORK
 https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
 
 
@@ -1475,27 +1475,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "0XkTZxpxgh7X5MSTfNL7pQ","kid": "IIAS0VS/USjcBEM8IuAGmA"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" group-title="CINE Y SERIES", DE PELICULA
-https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Cp2w4I0Lc35qZOyu1SXUyw","kid": "cKOrHqPEXdVw2ipmCuXu2g"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" group-title="CINE Y SERIES", DE PELICULA PLUS
-https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
