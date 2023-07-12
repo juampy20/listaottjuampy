@@ -299,8 +299,6 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",CANAL 10
 https://csc-ptn-edge01.sensa.com.ar/output/Canal10D/output.mpd
 
-#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",MORTEROS
-https://online.coopmorteros.coop/canal50_dash/vivo.mpd
 
 #EXTINF:-1 tvg-logo="-" group-title="REGIONAL",PORTEÑA
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
@@ -530,15 +528,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1061
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "+5xKHRW/bIxDAxvBjIbQlQ","kid": "bpEdZAikXzeqwzvQQL7sfg"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="Deportes", LIGA1 MAX
-https://dtvott-abc.akamaized.net/dash_live_1272/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -651,15 +640,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Chann
 https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OlbfAEfdcJOIxgb5_y-63Q","kid":"AKd10blrWVGzw6tXmfmGjg"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dWPyQym/ar-dxtv-m.png" group-title="DEPORTES", DEPORTV
-https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -806,15 +787,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1231
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "w5FQuiaYaoowvYjJYO4KmA","kid": "5W18Htc6AEw+vlaY9sb2sQ"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="DEPORTES", AFIZZIONADOS
-https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
