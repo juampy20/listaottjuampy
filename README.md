@@ -1889,6 +1889,26 @@ https://dtvott-abc.akamaized.net/dash_live_1175/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" group-title="CIENCIA Y CULTURA", A&E
 https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ff7f7bd977b33189108629f0effaa4b:211e132997cd8646eedf3d1bfe00696a
+#EXTINF:-1 tvg-logo="-" group-title="CIENCIA Y CULTURA", mas chic
+https://1007-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06545fb66e7d5ea38362bc2cefb0cace:4f437f342ea9f6eb1169b5ca46261655
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TQpiXLHajDkKZuvJFxsTx3ehF7Qfab7QD_b5DYNCYzl6xtDGWcSwR3VzAhP_FLtn0g0&usqp=CAU" group-title="CIENCIA Y CULTURA", glitz
+https://dtvott-cbc.akamaized.net/dash_live_1132/manifest.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -1899,6 +1919,27 @@ https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="COCINA", GOURMET
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d156b089a39b5e81be1ea8a6d1c9fc4e:015d0fec74f71ff77114bb439ef07a8b
+#EXTINF:-1 tvg-logo="-" group-title="NOTICIAS",DW
+https://dtvott-abc.akamaized.net/dash_live_1001/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
+#EXTINF:-1 tvg-logo="https://i0.wp.com/bahiacesar.com/wp-content/uploads/2019/06/logo_flow_music_xp_con_caja.jpg?resize=350%2C200&ssl=1" group-title="MUSICA", FLOW MUSIC
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
