@@ -2106,6 +2106,9 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PzNYgKf/c5n.png" group-title="NOTICIAS", C5N
 https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/NBC_News_2013_logo-e1637259544385.png" group-title="NOTICIAS", NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
